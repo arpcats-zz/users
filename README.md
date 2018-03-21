@@ -7,11 +7,11 @@ Used for manipulating data in the database.
 The MySQLi Extension (MySQL Improved) and Object Oriented Programming (OOP) 
 technique will be used to implement CRUD functionality in PHP. 
 
-Purpose: Users Information
-Author: Anthony Payumo
-Email: 1010payumo@yahoo.com
-Git Repo: github.com/arpcats
-Version: 1.0
+@Purpose: Users Information
+@Author: Anthony Payumo
+@Email: 1010payumo@yahoo.com
+@Git Repo: github.com/arpcats
+@Version: 1.0
 
 
 Tools
